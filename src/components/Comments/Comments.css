@@ -1,0 +1,30 @@
+.single-comment{
+  display: flex;
+  border-bottom: 1px solid #192e4d;
+  padding: 5px;
+  align-items: center;
+  background: #fff;
+  margin-bottom: 10px;
+  border-radius: 3px;
+}
+.image-container{
+  width: 30%;
+  align-items: center;
+}
+.image{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 2px solid #192e4d;
+}
+.comment-details{
+  padding-left: 20px;
+}
+.name, .email, .body{
+  margin: 0;
+  text-transform: ;
+}
+.body{
+  text-align: justify;
+  margin-top: 10px;
+}

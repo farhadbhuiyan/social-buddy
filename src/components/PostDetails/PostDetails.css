@@ -1,0 +1,40 @@
+h2{
+  text-transform: capitalize;
+}
+.stats {
+  padding: 10px 0;
+  color: #606e6e;
+  font-size: 0.8rem;
+  font-weight: normal;
+  border-bottom: 1px solid #192e4d;
+  margin-bottom: 5px;
+}
+.comment {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-bottom: 10px;
+}
+.post-controls{
+  margin-bottom: 10px;
+}
+.btn {
+	background-color: #ffffff;
+	padding: 10px;
+	color: #191919;
+	font-weight: bold;
+	border: none;
+	border-radius: 3px;
+  margin: 2px;
+}
+.btn:hover {
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+  background-color: #192e4d;
+}
+.post-comment-feed {
+  background: #f3f3f3;
+  padding: 20px;
+  margin-bottom: 10px;
+}
